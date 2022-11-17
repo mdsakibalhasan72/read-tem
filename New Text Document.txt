@@ -1,0 +1,21 @@
+1  HTML html5
+2  CSS  css3
+8 boostrap
+3  JAVASCRIPT        
+4  React         =35day    (1+2=one day 3+4=oneday 14+15=one day 16+17=oneday 28+29+30=one day 33+34=oneday 35+36=oneday 37+38=onde day +2=5 lear with sumit
+5  node.js       =35day
+7 Responsive Desing minia query
+11 git           = 8 day anisul islam 
+14mongoBD        =10day anisul islam dom=one hours=lear with sumit
+
+jankar mahabub   : ES6,dom mangopolation, browser, Eeveloper tools,React Router  
+seo
+
+
+
+problem solving 
+
+1 beecrowd
+2 uva
+4 codeforces
+5 haskerrank
